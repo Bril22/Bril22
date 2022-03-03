@@ -1,4 +1,4 @@
-# Hi there, I'm Brilian Natanael Zega 👨‍🔧
+# 👋 Hi there, I'm Brilian Natanael Zega
 
 I am a fresh graduate who looking for the opportunities in Geophysicist (Processing and Modelling)🌏, Geospatial information science, Data Analyst/Data Science, and Web Developer with a background in Geophysical Engineering. 👨‍🔬
 
@@ -15,7 +15,7 @@ I am a fresh graduate who looking for the opportunities in Geophysicist (Process
   - Processed and evaluated all data to generate appropriate parameters.
   - Found the correlation between geomorphology of Yogyakarta and data parameters to provide 2D map surface.
   - Interpreted 2D map surfaces to indicate area of significant seismic hazard.
-###  Geophysical Engineering Course | Karangsambung, Indonesia
+###  Field Study | Karangsambung, Indonesia
   Field Research (Mar 2021 – Apr 2021)
   - Applied geological and geophysical concepts and methods in the field, including exploration concepts, planning,
   mapping, acquisition, processing, and interpretation.

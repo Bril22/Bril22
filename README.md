@@ -11,5 +11,5 @@
 ![Typing SVG]()
 <img src="https://github.com/Bril22/Bril22/blob/main/images/linkedin.svg" width="10" height="10">
 
-<img src="https://www.linkedin.com/in/briliannatan/" data-canonical-src="https://github.com/Bril22/Bril22/blob/main/images/linkedin.svg" width="80" height="40" />
+<img src="https://github.com/Bril22/Bril22/blob/main/images/linkedin.svg" width="80" height="40" />
 

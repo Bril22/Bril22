@@ -8,7 +8,7 @@
   * I'm also looking for: an Internship or job opportunities
 
 ## My Skill
-<img src="https://github.com/Bril22/Bril22/blob/main/images/python-svgrepo-com.svg" width="80" height="40" /><img src="https://github.com/Bril22/Bril22/blob/main/images/tableau-icon-svgrepo-com.svg" width="80" height="40" /><img src="https://github.com/Bril22/Bril22/blob/main/images/matlab-svgrepo-com.svg" width="80" height="40" /><img src="https://github.com/Bril22/Bril22/blob/main/images/html-svgrepo-com.svg" width="80" height="40" /><img src="https://github.com/Bril22/Bril22/blob/main/images/css-svgrepo-com.svg" width="80" height="40" /><img src="https://github.com/Bril22/Bril22/blob/main/images/javascript-svgrepo-com.svg" width="80" height="40" /><img src="https://github.com/Bril22/Bril22/blob/main/images/mysql-svgrepo-com.svg" width="80" height="40" />
+<img src="https://github.com/Bril22/Bril22/blob/main/images/python-svgrepo-com.svg" width="80" height="40" /><img src="https://github.com/Bril22/Bril22/blob/main/images/tableau-icon-svgrepo-com.svg" width="80" height="40" /><img src="https://github.com/Bril22/Bril22/blob/main/images/matlab-svgrepo-com.svg" width="80" height="40" /><img src="https://github.com/Bril22/Bril22/blob/main/images/html-svgrepo-com.svg" width="80" height="40" /><img src="https://github.com/Bril22/Bril22/blob/main/images/css-svgrepo-com.svg" width="80" height="40" /><img src="https://github.com/Bril22/Bril22/blob/main/images/javascript-svgrepo-com.svg" width="80" height="40" /><img src="https://github.com/Bril22/Bril22/blob/main/images/mysql-logo-svgrepo-com.svg" width="80" height="40" />
 
 
 

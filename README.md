@@ -13,5 +13,5 @@
 
 
 ## Connect with me 	👇
-[<img src="https://github.com/Bril22/Bril22/blob/main/images/linkedin.svg" width="100" height="40" />](https://www.linkedin.com/in/briliannatan/)[<img src="https://github.com/Bril22/Bril22/blob/main/images/instagram-svgrepo-com.svg" width="80" height="40" />](https://www.instagram.com/brilaja/)[<img src="https://github.com/Bril22/Bril22/blob/main/images/google-gmail-svgrepo-com.svg" width="50" height="40" />](fttmbril22@gmail.com)
+[<img src="https://github.com/Bril22/Bril22/blob/main/images/linkedin.svg" width="100" height="40" />](https://www.linkedin.com/in/briliannatan/)[<img src="https://github.com/Bril22/Bril22/blob/main/images/instagram-svgrepo-com.svg" width="80" height="40" />](https://www.instagram.com/brilaja/)[<img src="https://github.com/Bril22/Bril22/blob/main/images/google-gmail-svgrepo-com.svg" width="40" height="40" />](fttmbril22@gmail.com)
 

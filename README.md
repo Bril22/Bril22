@@ -8,10 +8,10 @@
   * I'm also looking for: an Internship or job opportunities
 
 ## My Skill
-<img src="https://github.com/Bril22/Bril22/blob/main/images/html-svgrepo-com.svg" width="80" height="40" />
+<img src="https://github.com/Bril22/Bril22/blob/main/images/html-svgrepo-com.svg" width="80" height="40" /> <img src="https://github.com/Bril22/Bril22/blob/main/images/css-svgrepo-com.svg" width="80" height="40" />
 
 
 
-##	👇	👇  Connect with me 	👇	👇
+## Connect with me 	👇
 [<img src="https://github.com/Bril22/Bril22/blob/main/images/linkedin.svg" width="80" height="40" />](https://www.linkedin.com/in/briliannatan/)
 

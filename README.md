@@ -10,4 +10,4 @@
 ## My Skill
 ![Typing SVG]()
 
-[![width=100px](https://github.com/Bril22/Bril22/blob/main/images/linkedin.svg)](https://www.linkedin.com/in/briliannatan/)
+[![width=10px](https://github.com/Bril22/Bril22/blob/main/images/linkedin.svg)](https://www.linkedin.com/in/briliannatan/)

@@ -10,4 +10,4 @@
 ## My Skill
 ![Typing SVG]()
 
-[<img src="https://github.com/Bril22/Bril22/blob/main/images/linkedin.svg" width="10" height="10">](https://www.linkedin.com/in/briliannatan/)
+<img src="https://github.com/Bril22/Bril22/blob/main/images/linkedin.svg" width="10" height="10">

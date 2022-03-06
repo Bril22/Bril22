@@ -8,6 +8,6 @@
   * I'm also looking for: an Internship or job opportunities
 
 ## My Skill
-![Typing SVG](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+![Typing SVG]()
 
 [LinkedIn](https://www.linkedin.com/in/briliannatan/)
